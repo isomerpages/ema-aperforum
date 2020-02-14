@@ -1,4 +1,5 @@
 ---
-title: Chairperson's Message
-permalink: /about/chairpersons-message/
+title: Chairperson's Text Message
+permalink: /about/chairpersons-whatsappmessage/
 ---
+oijsadiosajdio
