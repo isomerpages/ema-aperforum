@@ -1,4 +1,4 @@
 ---
-title: Chairperson's Message
+title: Chairperson's Text Message
 permalink: /about/chairpersons-whatsappmessage/
 ---
