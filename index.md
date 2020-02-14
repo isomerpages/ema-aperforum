@@ -11,7 +11,7 @@ sections:
         subtitle: Hero subtitle
         background: /images/hero-banner.png
         button: Contact Us
-        url: /contact-us/
+        url: https://google.com
         key_highlights:
             - title: Highlight A
               description: Important highlight A is important
@@ -22,6 +22,9 @@ sections:
             - title: Page A
               description: Page A is important too
               url: /privacy/
+            - title: Page D
+              description: Page D is important too
+              url: /bla/
     - infobar:
         title: Infobar title
         subtitle: Subtitle
