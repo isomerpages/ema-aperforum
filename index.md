@@ -7,7 +7,7 @@ permalink: /
 notification: Singapore will be hosting the 5th Asia Pacific Energy Regulatory Forum on 14 - 17 July 2020. Please stay tuned for more information.
 sections:
     - hero:
-        title: ###Asia Pacific Energy Regulatory Forum 2020
+        title: Asia Pacific Energy Regulatory Forum 2020
         subtitle: Singapore, 14 - 17 July 2020
         background: /images/hero-banner.png
         button: Contact Us
