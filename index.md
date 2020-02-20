@@ -1,17 +1,18 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Asia Pacific Energy Regulatory Forum 2020
+description: Asia Pacific Energy Regulatory Forum 2020
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Singapore will be hosting the 5th Asia Pacific Energy Regulatory Forum on 14 - 17 July 2020.
+Please stay tuned for more information.
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
+        title: Asia Pacific Energy Regulatory Forum 2020
+        subtitle: Singapore, 14 - 17 July 2020
         background: /images/hero-banner.png
         button: Contact Us
-        url: https://google.com
+        url: /contact-us/
         key_highlights:
             - title: Highlight A
               description: Important highlight A is important
