@@ -4,7 +4,7 @@ title: Contact Us
 permalink: /contact-us/
 agency_name: the organisers
 locations:
-#  - title: Main Office
+  - title: Address
     address:
         - 991G Alexandra Road #01-29
         - Singapore 119975
