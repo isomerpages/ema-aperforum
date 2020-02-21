@@ -4,4 +4,17 @@ permalink: /about/APER-members/
 ---
 
 
-This is a *test* from C.T.
+<table>
+  <tr>
+    <th>APER Member</th>
+    <th>Head of Delegation</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
