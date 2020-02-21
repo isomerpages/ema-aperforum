@@ -8,7 +8,7 @@ permalink: /APER-2020/agenda/
 </style>
 
 *Agenda is subject to change*
-<ul><li>What are the key aspects towards enhancing grid resilience, and how are APER members working towards this?</li><li>How should regulators ensure stability while optimising the growth of distributed and intermittent generation sources on the grid?</li><li>What are some ways that regulators can work with the industry to ensure adequate safeguards against cyberattacks on critical energy infrastructure?</li></ul>
+
 ### **Day 1 (14 July 2020, Tuesday)**
 
 | **Time** | **Event** |
@@ -29,8 +29,7 @@ permalink: /APER-2020/agenda/
 | 12.00nn - 1.30pm | Lunch |
 | 1.30pm - 3.00pm | **Presentations by APER Members: Key developments in respective electricity markets (continued)** |
 | 3.00pm - 3.30pm | Coffee Break |
-| 3.30pm - 5.30pm | **Discussion Theme 1: Strengthening Grid Stability and Resilience**<br><br>The stability of power systems and electricity networks is a critical priority for governments and energy regulators globally. This session will discuss ways to enhance the resilience of the grid and power systems, including mitigating risks of power outages, and reducing the impact of physical and digital threats.<br><br><u>Key questions</u><br>
-<ul><li>What are the key aspects towards enhancing grid resilience, and how are APER members working towards this?</li><li>How should regulators ensure stability while optimising the growth of distributed and intermittent generation sources on the grid?</li><li>What are some ways that regulators can work with the industry to ensure adequate safeguards against cyberattacks on critical energy infrastructure?</li></ul> |
+| 3.30pm - 5.30pm | **Discussion Theme 1: Strengthening Grid Stability and Resilience**<br><br>The stability of power systems and electricity networks is a critical priority for governments and energy regulators globally. This session will discuss ways to enhance the resilience of the grid and power systems, including mitigating risks of power outages, and reducing the impact of physical and digital threats.<br><br><u>Key questions</u><br><ul><li>What are the key aspects towards enhancing grid resilience, and how are APER members working towards this?</li><li>How should regulators ensure stability while optimising the growth of distributed and intermittent generation sources on the grid?</li><li>What are some ways that regulators can work with the industry to ensure adequate safeguards against cyberattacks on critical energy infrastructure?</li></ul> |
 | 6.00pm - 8.30pm | **Welcome Dinner** |
 
 ### **Day 3 (16 July 2020, Thursday)**
