@@ -13,24 +13,21 @@ sections:
         button: Contact Us
         url: /contact-us/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-            - title: Page D
-              description: Page D is important too
-              url: /bla/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+            - title: ABOUT APER
+              description: Find out more about this biannual forum
+              url: /about/about-aper/
+            - title: AGENDA
+              description: View the latest list of events
+              url: /aper-2020/agenda/
+            - title: ARCHIVES
+              description: Access materials from past forums
+              url: /archives/aper-forum-2018/
+/    - infobar:
+/        title: Infobar title
+/        subtitle: Subtitle
+/        description: About a sentence worth of description here
+/        button: Button text
+/        url: /faq/
     - resources:
         title: Media
         subtitle: Learn more
