@@ -2,14 +2,14 @@
 layout: homepage
 title: Asia Pacific Energy Regulatory Forum 2020
 description: Asia Pacific Energy Regulatory Forum 2020
-image: /images/isomer-logo.svg
+image: /images/in_aper.png
 permalink: /
 notification: Singapore will be hosting the 5th Asia Pacific Energy Regulatory Forum on 14 - 17 July 2020. Please stay tuned for more information.
 sections:
     - hero:
         title: Asia Pacific Energy Regulatory Forum 2020
         subtitle: Singapore, 14 - 17 July 2020
-        background: /images/hero-banner.png
+        background: /images/in_skyline.jpg
         button: Contact Us
         url: /contact-us/
         key_highlights:
