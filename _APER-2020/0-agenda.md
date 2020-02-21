@@ -6,8 +6,8 @@ permalink: /APER-2020/agenda/
 
 <table>
   <tr>
-    <th><b>Time</b></th>
-    <th><b>Event</b></th>
+    <th><b><center>Time</center></b></th>
+    <th><b><center>Event</center></b></th>
   </tr>
   <tr>
     <td>10.00am - 12.30pm</td>
