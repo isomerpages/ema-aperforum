@@ -11,7 +11,7 @@ permalink: /archives/APER-forum-2014/
   </tr>
   <tr>
     <td>Australia<br><i>Presenter: Brendan Morling, Department of Industry</i><br></td>
-    <td>[pdf](/files/2014-australia-overview.pdf/)</td>
+    <td><a ref="/files/2014-australia-overview.pdf">pdf</a></td>
   </tr>
   <tr>
     <td></td>
