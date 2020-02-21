@@ -35,8 +35,19 @@ permalink: /archives/APER-forum-2018/
 
 | **Presentation** | **Download** |
 |---|:----|
+| **Discussion Questions** | [126kb](/files/2018-00-themes.pdf) |
 | **Competitive and Investable Energy Market**<br>*Presenter: Lana Stockman, Electricity Authority (New Zealand)* | [918kb](/files/2018-02-newzealand.pdf) |
 | **Competitive and Investable Energy Market: Policy & Regulatory Framework of Power Markets in India**<br>*Presenter: Dr. S.K.Chatterjee, Central Electricity Regulatory Commission (India)* | [1.21mb](/files/2018-02-india.pdf) |
-| **Promoting Competition and Investment in Energy Market**<br>*Presenter: Ryuichi Inagaki , Electricity and Gas Market Surveillance Commission (Japan)* | [1.24mb](/files/2018-02-japan.pdf) |
+| **Promoting Competition and Investment in Energy Market**<br>*Presenter: Ryuichi Inagaki, Electricity and Gas Market Surveillance Commission (Japan)* | [1.24mb](/files/2018-02-japan.pdf) |
 | **Competitive and Investable Energy Market**<br>*Presenter: Paulus Ain, Independent Consumer and Competition Commission (Papua New Guinea)* | [211kb](/files/2018-02-png.pdf) |
 | **Electricity Market Challenges in Korea for Energy Transition**<br>*Presenter: Dr. Young Tak Cho, Electricity Regulatory Commission (Republic of Korea)* | [3.69mb](/files/2018-02-korea.pdf) |
+
+### **Theme 3: Issues for Market Surveillance and Regulation**
+
+| **Presentation** | **Download** |
+|---|:----|
+| **Discussion Questions** | [126kb](/files/2018-00-themes.pdf) |
+| **Competition in the Eastern Australian Wholesale Electricity Market**<br>*Presenter: Paula Conboy, Australian Energy Regulator (Australia)* | [601kb](/files/2018-03-australia.pdf) |
+| **Developments in the Authority's Market Monitoring**<br>*Presenter: Rory Blundell, Electricity Authority (New Zealand)* | [1.48mb](/files/2018-03-newzealand.pdf) |
+| **Energy Market Surveillance and Regulation in Singapore**<br>*Presenter: Koh Hui Shan, Energy Market Authority (Singapore)* | [717kb](/files/2018-03-singapore.pdf) |
+| **Market Surveillance and Regulation**<br>*Presenter: James Danly, Federal Energy Regulatory Commission (USA)* | [530kb](/files/2018-03-usa.pdf) |
