@@ -6,7 +6,7 @@ permalink: /terms-of-use/
 
 **Agreement - Terms**
 
-All access of any area of [www.aperforum.org](www.aperforum.org) ("The Website") is governed by the terms and conditions below ("Terms"). If you do not accept any of these Terms, exit immediately. Continue only if you accept these Terms. In these Terms, the words "we", "our" and "us" refers to the Energy Market Authority.
+All access of any area of [www.aperforum.org](http://www.aperforum.org) ("The Website") is governed by the terms and conditions below ("Terms"). If you do not accept any of these Terms, exit immediately. Continue only if you accept these Terms. In these Terms, the words "we", "our" and "us" refers to the Energy Market Authority.
 
 **Access To The Website**
 
