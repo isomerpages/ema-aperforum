@@ -2,7 +2,7 @@
 title: Agenda
 permalink: /APER-2020/agenda/
 ---
-#### Day 1 (14 July 2020, Tuesday)
+#### **Day 1 (14 July 2020, Tuesday)**
 
 <table>
   <tr>
