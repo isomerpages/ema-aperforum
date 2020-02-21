@@ -1,5 +1,5 @@
 ---
-title: Chairperson's Text Message
-permalink: /about/chairpersons-whatsappmessage/
+title: Chairperson's Message
+permalink: /about/chairpersons-message/
 ---
-oijsadiosajdio
+It is my pleasure to welcome members to Singapore.
