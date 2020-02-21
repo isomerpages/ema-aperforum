@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: the organisers
+agency_name: the Energy Market Authority of Singapore
 locations:
   - title: Address
     address:
