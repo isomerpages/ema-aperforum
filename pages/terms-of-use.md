@@ -1,6 +1,6 @@
 ---
-title: Terms of Use
-permalink: /terms-of-use/
+title: Disclaimer
+permalink: /disclaimer/
 ---
 ### **Disclaimer**
 
