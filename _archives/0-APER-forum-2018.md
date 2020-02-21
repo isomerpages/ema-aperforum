@@ -4,5 +4,5 @@ permalink: /archives/APER-forum-2018/
 ---
 
 ### *Overview Session*
-| --- | ----:|
-|Australia<br>*Presenter: Paula Conboy, Australian Energy Regulator (Australia)*| [876kb](/files/2018-00-australia.pdf)|
+| --- | ----: |
+| Australia<br>*Presenter: Paula Conboy, Australian Energy Regulator (Australia)* | [876kb](/files/2018-00-australia.pdf) |
