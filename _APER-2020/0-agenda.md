@@ -8,7 +8,7 @@ permalink: /APER-2020/agenda/
 </style>
 
 *Agenda is subject to change*
-
+<ul><li>What are the key aspects towards enhancing grid resilience, and how are APER members working towards this?</li><li>How should regulators ensure stability while optimising the growth of distributed and intermittent generation sources on the grid?</li><li>What are some ways that regulators can work with the industry to ensure adequate safeguards against cyberattacks on critical energy infrastructure?</li></ul>
 ### **Day 1 (14 July 2020, Tuesday)**
 
 | **Time** | **Event** |
