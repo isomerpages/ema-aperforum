@@ -26,3 +26,7 @@ permalink: /archives/APER-forum-2014/
     <td></td>
   </tr>
 </table>
+
+| Overview of Energy and Regulatory Structure                  |                                            |
+|--------------------------------------------------------------|--------------------------------------------|
+| Australia Presenter: Brendan Morling, Department of Industry | [pdf](/files/2014-australia-overview.pdf)  |
