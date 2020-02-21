@@ -6,8 +6,8 @@ permalink: /about/APER-members/
 
 <table>
   <tr>
-    <th>APER Member</th>
-    <th>Head of Delegation</th>
+    <th><b><center>APER Member</center></b></th>
+    <th><b><center>Head of Delegation</center></b></th>
   </tr>
   <tr>
     <td></td>
