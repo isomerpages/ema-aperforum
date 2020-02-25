@@ -44,8 +44,7 @@ permalink: /archives/APER-forum-2014/
 | **Presentation** | **Download** |
 |---|:----|
 | **Developing metrics to enable effective international benchmarking of key indicia relating to energy**<br>*Presenter: Craig Glazer, PJM Interconnection, USA* | [1.33mb](/files/2014-04-us.pdf) |
-| **Comparing degree of competition between electricity retailers in four countries by conducting a survey of residential consumers about their perceptions 
-and experiences of retail competition, and level of difficulty in switching retailers**<br>*Presenter: Bruce Smith, Electricity Authority, New Zealand* | [973kb](/files/2014-04-newzealand.pdf) |
+| **Comparing degree of competition between electricity retailers in four countries by conducting a survey of residential consumers about their perceptions and experiences of retail competition, and level of difficulty in switching retailers**<br>*Presenter: Bruce Smith, Electricity Authority, New Zealand* | [973kb](/files/2014-04-newzealand.pdf) |
 | **Current issues and efficiency enhancement policy in the Korean electricity market**<br>*Presenter: Tae Kyoo Oh, Electricity Regulatory Commission, South Korea* | [816kb](/files/2014-04-korea.pdf) |
 
 ### **Panel on Cutting Edge Issues**
