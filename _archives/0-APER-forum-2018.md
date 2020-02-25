@@ -2,7 +2,10 @@
 title: APER Forum 2018
 permalink: /archives/APER-forum-2018/
 ---
-
+<style>
+  table th:first-of-type {width: 85%}
+  table th:nth-of-type(2) {width: 15%}
+</style>
 ### **Overview Session**
 
 | **Presentation** | **Download** |
