@@ -2,7 +2,10 @@
 title: APER Forum 2014
 permalink: /archives/APER-forum-2014/
 ---
-
+<style>
+  table th:first-of-type {width: 85%}
+  table th:nth-of-type(2) {width: 15%}
+</style>
 ### **Overview of Energy and Regulatory Structure**
 
 | **Presentation** | **Download** |
