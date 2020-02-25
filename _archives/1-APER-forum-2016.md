@@ -2,7 +2,10 @@
 title: APER Forum 2016
 permalink: /archives/APER-forum-2016/
 ---
-
+<style>
+  table th:first-of-type {width: 85%}
+  table th:nth-of-type(2) {width: 15%}
+</style>
 ### **Overview of Energy Industry and Regulatory Framework**
 
 | **Presentation** | **Download** |
