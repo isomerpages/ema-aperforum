@@ -21,7 +21,7 @@ sections:
             - title: ARCHIVES
               description: Access materials from past forums
               url: /archives/aper-forum-2018/
-    - infobar:
+    - infopic:
         title: APER 2018
         subtitle: Past Forums
         description: The last APER Forum was held in Japan from 27 to 30 November 2018. APER Members discussed the future of electricity networks with disruptive technologies, how regulators can ensure competitive and investable energy markets, and emerging issues for market surveillance and regulation.
