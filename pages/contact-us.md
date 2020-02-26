@@ -8,10 +8,10 @@ locations:
     address:
         - 991G Alexandra Road #01-29
         - Singapore 119975
-    operating_hours:
-      - days: Mondays to Fridays
-        time: 8.00am - 5.30pm
-        description: Closed on Saturdays, Sundays and Public Holidays
+#    operating_hours:
+#      - days: Mondays to Fridays
+#        time: 8.00am - 5.30pm
+#        description: Closed on Saturdays, Sundays and Public Holidays
 #    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
   - title: Event Venue
     address:
