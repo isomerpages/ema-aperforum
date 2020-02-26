@@ -4,7 +4,6 @@ title: Asia Pacific Energy Regulatory Forum 2020
 description: Asia Pacific Energy Regulatory Forum 2020
 image: /images/in_aper.png
 permalink: /
-notification: Singapore will be hosting the 5th Asia Pacific Energy Regulatory Forum on 14 - 17 July 2020. Please stay tuned for more information.
 sections:
     - hero:
         title: Asia Pacific Energy Regulatory Forum 2020
@@ -22,6 +21,14 @@ sections:
             - title: ARCHIVES
               description: Access materials from past forums
               url: /archives/aper-forum-2018/
+    - infobar:
+        title: APER 2018
+        subtitle: Past Forums
+        description: The last APER Forum was held in Japan from 27 to 30 November 2018. APER Members discussed the future of electricity networks with disruptive technologies, how regulators can ensure competitive and investable energy markets, and emerging issues for market surveillance and regulation.
+        button: View APER 2018 Presentations
+        url: /archive/aper-2018/
+        image: /images/2018-group-photo.jpg
+        alt: Group photo of APER Members Heads of Delegation
     - resources:
         title: Media
         subtitle: Learn more
