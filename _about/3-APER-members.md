@@ -6,9 +6,9 @@ permalink: /about/APER-members/
 
 | APER Member | Head of Delegation |
 |-------------|--------------------|
-|![australia-logo](/images/australia.png)|                    |
-|![china-logo](/images/china.png)|                    |
-|![india-logo](/images/india.png)|                    |
+| ![australia-logo](/images/australia.png =200x)|                    |
+| ![china-logo](/images/china.png)|                    |
+| ![india-logo](/images/india.png)|                    |
 | ![japan-logo](/images/japan.png) |                    |
 | ![nz-logo](/images/new-zealand.png)  |                    |
 | ![png-logo](/images/papua-new-guinea.png)  |                    |
