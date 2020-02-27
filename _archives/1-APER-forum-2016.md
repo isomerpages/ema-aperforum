@@ -16,8 +16,8 @@ permalink: /archives/APER-forum-2016/
 | **Electricity Regulation in the Kingdom of Tonga**<br>*Presenter: Rt. Hon. Lord Dalgety, Tonga Electricity Commission* | [286kb](/files/2016-00-tonga.pdf) |
 | **Federal Energy Regulatory Commission Overview**<br>*Presenter: Norman C. Bay, U.S. Federal Energy Regulatory Commission* | [8.36mb](/files/2016-00-us.pdf) |
 | **Energy Market Reform in Japan**<br>*Presenter: Dr. Tatsuo Hatta, Japan Electricity & Gas Market Surveillance Commission* | [2.85b](/files/2016-00-japan.pdf) |
-| **Country Report on Energy Regulatory and Market Development of China**<br>*Presenter: Tang, Jun, National Energy Administration of China* | [655kb](/files/2016-00-china.pdf) |
-| **Regulation Structure of the Korean Electricity Market and the Role of KOREC**<br>*Presenter: Dr. Jong Keun Park , Korea Electricity Regulatory Commission* | [41.78mb](/files/2016-00-korea.pdf) |
+| **Country Report on Energy Regulatory and Market Development of China**<br>*Presenter: Tang Jun, National Energy Administration of China* | [655kb](/files/2016-00-china.pdf) |
+| **Regulation Structure of the Korean Electricity Market and the Role of KOREC**<br>*Presenter: Dr. Jong Keun Park , Korea Electricity Regulatory Commission* | [16.22mb](/files/2016-00-korea.pdf) |
 
 ### **Efforts to Increase Market Flexibility & Efficiency**
 
@@ -30,14 +30,14 @@ permalink: /archives/APER-forum-2016/
 
 | **Presentation** | **Download** |
 |---|:----|
-| **The key steps in the restructure of the New Zealand electricity industry and the outcomes achieved from competition to date**<br>*Presenter: Hon. Roger Sowry & Susan Paterson, New Zealand Electricity Authority* | [19.84mb](/files/2016-02-newzealand.pdf) |
-| **Status and the Planned Improvements to the Korean Electricity Market**<br>*Presenter: Floresinda B. Digal, Korea Power Exchange* | [20.39mb](/files/2016-02-korea.pdf) |
-| **The Restructured Electric Power Sector and the Road Towards Clean Energy**<br>*Presenter: Min Seung Yang, Philippines Energy Regulatory Commission* | [40.30mb](/files/2016-02-philippines.pdf) |
+| **The key steps in the restructure of the New Zealand electricity industry and the outcomes achieved from competition to date**<br>*Presenters: Hon. Roger Sowry & Susan Paterson, New Zealand Electricity Authority* | [19.84mb](/files/2016-02-newzealand.pdf) |
+| **Status and the Planned Improvements to the Korean Electricity Market**<br>*Presenter: Min Seung Yang, Korea Power Exchange* | [22.29mb](/files/2016-02-korea.pdf) |
+| **The Restructured Electric Power Sector and the Road Towards Clean Energy**<br>*Presenter: Floresinda B. Digal, Philippines Energy Regulatory Commission* | [20.39mb](/files/2016-02-philippines.pdf) |
 
 ### **Policies and Regulatory Initiatives for Transitioning to Low-Carbon Economy**
 
 | **Presentation** | **Download** |
 |---|:----|
 | **Challenges of Transmission Tariff System in Japan**<br>*Presenter: Takehiko Matsuo, Japan Electricity & Gas Market Surveillance Commission* | [1.27mb](/files/2016-03-japan.pdf) |
-| **The Present and Future of the KEPCO's Power Grid**<br>*Presenter: Dr. Young-jin Won, Korea Electric Power Corporation* | [158.15mb](/files/2016-03-korea.pdf) |
+| **The Present and Future of the KEPCO's Power Grid**<br>*Presenter: Dr. Young-jin Won, Korea Electric Power Corporation* | [23.09mb](/files/2016-03-korea.pdf) |
 | **Developments in the Singapore Electricity Market**<br>*Presenter: Soh Sai Bor, Energy Market Authority of Singapore* | [9.74mb](/files/2016-03-singapore.pdf) |
