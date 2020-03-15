@@ -1,5 +1,5 @@
 ---
-title: About APER
+title: About APER | APER 2020
 permalink: /about/about-APER/
 ---
 
