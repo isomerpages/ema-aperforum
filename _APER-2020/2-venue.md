@@ -1,6 +1,6 @@
 ---
 title: Venue | APER 2020
-permalink: /about/venue/
+permalink: /APER-2020/venue/
 ---
 
 Page under construction
