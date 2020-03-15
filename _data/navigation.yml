@@ -11,9 +11,9 @@ links:
     collection: about
   - title: APER 2020
     collection: APER-2020
-  - title: Archives
-    collection: archives
   - title: Newsroom
     resource_room: true
+  - title: Archives
+    collection: archives
   - title: Contact Us
     url: /contact-us/
