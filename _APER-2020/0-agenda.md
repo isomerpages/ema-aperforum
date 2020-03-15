@@ -1,5 +1,5 @@
 ---
-title: Agenda | APER 2020
+title: Agenda
 permalink: /APER-2020/agenda/
 ---
 <style>
