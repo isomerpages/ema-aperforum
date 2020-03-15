@@ -1,5 +1,5 @@
 ---
-title: APER Members | APER 2020
+title: APER Members
 permalink: /about/APER-members/
 ---
 <style>
