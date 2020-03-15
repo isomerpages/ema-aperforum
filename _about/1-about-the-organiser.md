@@ -1,5 +1,5 @@
 ---
-title: About The Organiser
+title: About the Organiser
 permalink: /about/about-the-organiser/
 ---
 
