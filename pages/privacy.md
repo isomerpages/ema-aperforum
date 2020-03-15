@@ -1,5 +1,5 @@
 ---
-title: Privacy Statement | APER 2020
+title: Privacy Statement
 permalink: /privacy/
 ---
 
