@@ -1,6 +1,6 @@
 ---
 layout: contact_us
-title: Contact Us | APER 2020
+title: Contact Us
 permalink: /contact-us/
 agency_name: APER Forum 2020
 locations:
