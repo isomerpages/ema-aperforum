@@ -1,5 +1,5 @@
 ---
-title: About the Organiser
+title: About the Organiser | APER 2020
 permalink: /about/about-the-organiser/
 ---
 
