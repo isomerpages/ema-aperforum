@@ -1,5 +1,5 @@
 ---
-title: Terms of Use | APER 2020
+title: Terms of Use
 permalink: /terms-of-use/
 ---
 ### **Disclaimer**
