@@ -1,5 +1,5 @@
 ---
-title: Venue | APER 2020
+title: Venue
 permalink: /APER-2020/venue/
 ---
 
