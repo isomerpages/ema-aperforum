@@ -1,5 +1,5 @@
 ---
-title: Administrative Circular | APER 2020
+title: Administrative Circular
 permalink: /APER-2020/admin-circular/
 ---
 
