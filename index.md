@@ -7,7 +7,7 @@ permalink: /
 sections:
     - hero:
         title: Asia Pacific Energy Regulatory Forum 2020
-        subtitle: **Singapore, 14 - 17 July 2020**
+        subtitle: Singapore, 14 - 17 July 2020
         background: /images/in_skyline.jpg
         key_highlights:
             - title: ABOUT APER
