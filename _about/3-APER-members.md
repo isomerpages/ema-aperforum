@@ -7,11 +7,10 @@ permalink: /about/APER-members/
   table th:nth-of-type(2) {width: 70%}
 </style>
 
-| **APER Member** | **Head of Delegation** |
 |:-------------:|--------------------|
-| ![australia-logo](/images/australia.png)<br>Australia|                    |
-| ![china-logo](/images/china.png)<br>China|                    |
-| ![india-logo](/images/india.png)<br>India|                    |
+| ![australia-logo](/images/australia.png)<br>Australia| Australian Energy Regulator<br>https://www.aer.gov.au/ |
+| ![china-logo](/images/china.png)<br>China| National Energy Administration<br>https://chinaenergyportal.org/en/|
+| ![india-logo](/images/india.png)<br>India| Central Electricity Regullatory Commission<br>http://www.cercind.gov.in/ |
 | ![japan-logo](/images/japan.png)<br>Japan |                    |
 | ![nz-logo](/images/new-zealand.png)<br>New Zealand  |                    |
 | ![png-logo](/images/papua-new-guinea.png)<br>Paapua New Guinea  |                    |
