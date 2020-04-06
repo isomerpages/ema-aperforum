@@ -9,6 +9,8 @@ collections:
     output: true
   archives:
     output: true
+  who-we-are:
+    output: true
 resources_name: newsroom
 
 ##################################################################################################################
