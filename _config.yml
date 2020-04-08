@@ -9,8 +9,7 @@ collections:
     output: true
   archives:
     output: true
-  agenda-days:
-    output: true
+
 resources_name: newsroom
 
 ##################################################################################################################
