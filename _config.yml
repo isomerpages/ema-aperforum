@@ -9,7 +9,7 @@ collections:
     output: true
   archives:
     output: true
-  who-we-are:
+  agenda-days:
     output: true
 resources_name: newsroom
 
