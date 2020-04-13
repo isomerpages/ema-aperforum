@@ -6,6 +6,9 @@ permalink: /archives/APER-forum-2018/
   table th:first-of-type {width: 85%}
   table th:nth-of-type(2) {width: 15%}
 </style>
+![aper-2018-group](/images/2018-group-photo.jpg)
+APER Forum 2018 was held in Japan from 27 to 30 November. APER Members discussed the future of electricity networks with disruptive technologies, how regulators can ensure competitive and investable energy markets, and emerging issues for market surveillance and regulation. Presentations by various APER members can be found below.
+
 ### **Overview Session**
 
 | **Presentation** | **Download** |
