@@ -25,7 +25,7 @@ sections:
         description: Singapore extends a warm welcome to APER members to APER Forum 2020, to be held from 14 to 17 July 2020.
         button: View Message
         url: /about/chairpersons-message/
-        image: /images/sg_ngiamshihchun.jpg
+        image: /images/sg-ngiamshihchun.jpg
         alt: Chairperson Ngiam Shih Chun
     - infopic:
         title: APER 2018
