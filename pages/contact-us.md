@@ -4,10 +4,10 @@ title: Contact Us
 permalink: /contact-us/
 agency_name: APER Forum 2020
 locations:
-  - title: EMA Address
-    address:
-        - 991G Alexandra Road #01-29
-        - Singapore 119975
+#  - title: EMA Address
+#    address:
+#        - 991G Alexandra Road #01-29
+#        - Singapore 119975
 #    operating_hours:
 #      - days: Mondays to Fridays
 #        time: 8.00am - 5.30pm
@@ -22,8 +22,8 @@ locations:
 contacts:
   - title: General Enquiries & Feedback
     content:
-    - phone: 1800-734-9177
-    - email: ema_enquiries@ema.gov.sg
+    - phone: (+65) 6996 6711
+    - email: APER2020@twistmedia.sg
 #    - other: Any text here <i>including HTML</i>
 ---
 title: Contact Us
