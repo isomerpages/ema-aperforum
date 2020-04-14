@@ -10,14 +10,7 @@ links:
   - title: About
     collection: about
   - title: APER 2020
-    url: /APER-2020/
-    sub-links:
-    - title: Agenda
-      url: /APER-2020/
-    - title: Adiministrative Circular
-      url : /APER-2020/administrative-circular
-    - title: Venue
-      url: /APER-2020/venue
+    collection: APER-2020
   - title: Newsroom
     resource_room: true
   - title: Archives
