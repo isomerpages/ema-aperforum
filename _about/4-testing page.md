@@ -1,6 +1,6 @@
 ---
-title: About APER
-permalink: /about/about-APER/
+title: Test title
+permalink: /about/testing-page/
 ---
 
 ![APER logo](/images/aper-logo.png)
