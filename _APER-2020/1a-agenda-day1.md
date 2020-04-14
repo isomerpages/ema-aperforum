@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: Day 1
-permalink: /APER-2020/day1/
+permalink: /APER-2020/
 breadcrumb: APER 2020 - Day 1
 collection_name: APER-2020
-second_nav_title: "Agenda - Day 1"
+second_nav_title: "Agenda"
 ---
 <style>
   table th:first-of-type {width: 20%}
