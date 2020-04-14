@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
-title: Agenda
+title: Day 1
 permalink: /APER-2020/agenda/
 breadcrumb: APER 2020 - Day 1
 collection_name: APER-2020
-second_nav_title: "Day 1"
+second_nav_title: "Agenda"
 ---
 
 *Agenda is subject to change*
