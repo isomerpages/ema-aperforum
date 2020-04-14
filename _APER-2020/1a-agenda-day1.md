@@ -6,6 +6,10 @@ breadcrumb: APER 2020 - Agenda - Day 1
 collection_name: APER-2020
 second_nav_title: "Agenda - Day 1"
 ---
+<style>
+  table th:first-of-type {width: 20%}
+  table th:nth-of-type(2) {width: 80%}
+</style>
 
 *Agenda is subject to change*
 
