@@ -1,6 +1,10 @@
 ---
+layout: leftnav-page-content
 title: Administrative Circular
-permalink: /APER-2020/admin-circular/
+permalink: /APER-2020/
+breadcrumb: APER 2020
+collection_name: APER-2020
 ---
 
 Page under construction
+
