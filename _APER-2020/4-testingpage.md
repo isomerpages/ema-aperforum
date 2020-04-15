@@ -1,6 +1,6 @@
 ---
 title: Testing Page 
-permalink: /APER-2020/Testing Page/
+permalink: /APER-2020/testing-page/
 ---
 <style>
   table th:first-of-type {width: 20%}
