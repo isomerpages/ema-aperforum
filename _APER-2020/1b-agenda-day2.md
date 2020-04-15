@@ -1,5 +1,5 @@
 ---
-title: Agenda: Day 2
+title: Agenda - Day 2
 permalink: /APER-2020/agenda-day2/
 third_nav_title: Agenda
 ---
