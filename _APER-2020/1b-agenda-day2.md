@@ -5,8 +5,6 @@ third_nav_title: Agenda
 ---
 *Agenda is subject to change*
 
-### **14 July 2020**
-
 ### **15 July 2020**
 
 | **Time** | **Event** |
