@@ -1,5 +1,5 @@
 ---
-title: Agenda - Day 3
+title: Day 3 (16 July)
 permalink: /APER-2020/agenda-day3/
 third_nav_title: Agenda
 ---
