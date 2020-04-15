@@ -15,7 +15,7 @@ sections:
               url: /about/about-aper/
             - title: AGENDA
               description: View the latest list of events
-              url: /aper-2020/agenda/
+              url: /aper-2020/agenda-day1/
             - title: ARCHIVES
               description: Access materials from past forums
               url: /archives/aper-forum-2018/
