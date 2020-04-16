@@ -1,6 +1,6 @@
 ---
-title: About APER
-permalink: /about/about-APER/
+title: About APER Forum
+permalink: /about/about-APER-Forum/
 ---
 
 ![APER logo](/images/aper-logo.png)
