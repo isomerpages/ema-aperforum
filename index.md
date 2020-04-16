@@ -10,7 +10,7 @@ sections:
         subtitle: Singapore, 14 - 17 July 2020
         background: /images/in_skyline.jpg
         key_highlights:
-            - title: ABOUT APER
+            - title: ABOUT APER FORUM
               description: Find out more about this biennial forum
               url: /about/about-aper/
             - title: AGENDA
