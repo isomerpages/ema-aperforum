@@ -2,7 +2,7 @@
 layout: homepage
 title: Asia Pacific Energy Regulatory Forum 2020
 description: Asia Pacific Energy Regulatory Forum 2020
-image: /images/in_aper.png
+image: /images/final-aper-logo.png
 permalink: /
 sections:
     - hero:
