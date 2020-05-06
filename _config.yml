@@ -1,4 +1,4 @@
-title: APER Forum 2020
+title: APER Forum 2021
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-isomer.ico
 
@@ -35,5 +35,5 @@ plugins:
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: Singapore will be hosting the 5th Asia Pacific Energy Regulatory Forum on 14 - 17 July 2020.
+description: Singapore will be hosting the Asia Pacific Energy Regulatory Forum on 26-29 January 2021.
 
