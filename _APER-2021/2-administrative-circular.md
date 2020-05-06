@@ -1,6 +1,6 @@
 ---
 title: Administrative Circular
-permalink: /APER-2020/administrative-circular
+permalink: /APER-2021/administrative-circular
 ---
 
 Page under construction
