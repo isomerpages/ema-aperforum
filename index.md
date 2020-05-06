@@ -22,7 +22,7 @@ sections:
     - infopic:
         title: Chairperson's Message
         subtitle: Welcome
-        description: Singapore extends a warm welcome to APER members to APER Forum 2020, to be held from 26 to 29 January 2021.
+        description: Singapore extends a warm welcome to APER members to APER Forum 2021, to be held from 26 to 29 January 2021.
         button: View Message
         url: /about/chairpersons-message/
         image: /images/sg-ngiamshihchun.jpg
