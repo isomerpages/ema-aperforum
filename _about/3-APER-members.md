@@ -21,3 +21,8 @@ permalink: /about/APER-members/
 | ![thailand-logo](/images/thailand.png)<br>Thailand |                    |
 | ![tonga-logo](/images/tonga.png)<br>Tonga |                    |
 | ![usa-logo](/images/united-states.png)<br>United States of America |                    |
+
+|Member Country                |Affiliation/Organisation                         |Website                       |
+|----------------|-------------------------------|-----------------------------|
+|Australia|Australian Energy Regulator          |https://www.aer.gov.au/            |
+|Australia|Australian Energy Regulator          |https://www.aer.gov.au/            |
