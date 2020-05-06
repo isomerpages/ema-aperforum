@@ -5,7 +5,7 @@ favicon: /images/favicon-isomer.ico
 collections:
   about:
     output: true
-  APER-2020:
+  APER-2021:
     output: true
   archives:
     output: true
