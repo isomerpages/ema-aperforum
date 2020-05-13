@@ -12,7 +12,7 @@ links:
   - title: APER 2021
     collection: APER-2021
   - title: Newsroom
-    resource_room: true
+    collection: newsroom
   - title: Archives
     collection: archives
   - title: Contact Us
