@@ -27,7 +27,7 @@ sections:
         url: /about/chairpersons-message/
         image: /images/sg-ngiamshihchun.jpg
         alt: Chairperson Ngiam Shih Chun
-     - infopic:
+    - infopic:
         title: APER 2018
         subtitle: Past Forums
         description: The last APER Forum was held in Japan from 27 to 30 November 2018. APER Members discussed the future of electricity networks with disruptive technologies, how regulators can ensure competitive and investable energy markets, and emerging issues for market surveillance and regulation.
@@ -35,4 +35,7 @@ sections:
         url: /archives/aper-forum-2018/
         image: /images/2018-group-photo.jpg
         alt: Group photo of APER Members Heads of Delegation
+    - resources:
+        title: Newsroom
+        button: View More
 ---
