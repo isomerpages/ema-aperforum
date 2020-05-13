@@ -35,7 +35,4 @@ sections:
         url: /archives/aper-forum-2018/
         image: /images/2018-group-photo.jpg
         alt: Group photo of APER Members Heads of Delegation
-    - resources:
-        title: Newsroom
-        button: View More
 ---
