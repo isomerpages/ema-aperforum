@@ -6,7 +6,7 @@ permalink: /archives/APER-forum-2016/
   table th:first-of-type {width: 85%}
   table th:nth-of-type(2) {width: 15%}
 </style>
-APER Forum 2016 was held in Seoul from 27 to 30 September. Members provided an update on their respective industry and regulatory frameworks, and discussed topics such as increasing market flexibility and efficiency, market restructuring, and transitioning to a low-carbon economy. Presentations by APER members can be found below.
+APER Forum 2016 was held in Seoul from 27 to 30 September. Members provided updates on their respective industry and regulatory frameworks, and discussed topics such as increasing market flexibility and efficiency, market restructuring, and transitioning to a low-carbon economy. Presentations by APER members can be found below.
 
 ### **Overview of Energy Industry and Regulatory Framework**
 
