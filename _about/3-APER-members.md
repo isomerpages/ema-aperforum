@@ -18,6 +18,7 @@ permalink: /about/APER-members/
 |Philippines|[Energy Regulatory Commission](http://erc.gov.ph)
 |Republic of Korea|[Electricity Regulatory Commission, Ministry of Trade, Industry & Energy (MOTIE)](http://english.motie.go.kr)
 |Samoa|[Office of The Regulator](http://regulator.gov.ws)
+|Singapore|[Energy Market Authority](http://ema.gov.sg)
 |Thailand|[Energy Regulatory Commission of Thailand](http://erc.or.th)
 |Tonga|[Tonga Electricity Commission](http://electricitycommission.to)
 |United States of America|[Federal Energy Regulatory Commission (FERC)](http://ferc.gov)
