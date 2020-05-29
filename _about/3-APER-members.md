@@ -11,8 +11,8 @@ permalink: /about/APER-members/
 |-|-|
 |Australia|[Australian Energy Regulator](https://www.aer.gov.au/)
 |China|[National Energy Administration](https://chinaenergyportal.org/en/)
-|India|[Central Electricity Regullatory Commission](http://www.cercind.gov.in/)
-|Japan|[Electricity and Gas Market Surveillance Commision (EGC) Ministry of Economy, Trade, and Industry (METI)](http://www.emsc.meti.go.jp/english/)
+|India|[Central Electricity Regulatory Commission](http://www.cercind.gov.in/)
+|Japan|[Electricity and Gas Market Surveillance Commision (EGC), Ministry of Economy, Trade, and Industry, (METI)](http://www.emsc.meti.go.jp/english/)
 |New Zealand|[Electricity Authority](http://ea.govt.nz/)
 |Papua New Guinea|[Inedependent Consumer and Competition Commission (ICCC)](http://consumersinternational.org)
 |Philippines|[Energy Regulatory Commission](http://erc.gov.ph)
