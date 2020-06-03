@@ -6,6 +6,7 @@ permalink: /archives/APER-forum-2014/
   table th:first-of-type {width: 85%}
   table th:nth-of-type(2) {width: 15%}
 </style>
+![aper-2014-group](/images/2014-group-photo.jpg)
 APER members met in New Zealand on 27 and 28 August 2014, updating each other on the energy and regulatory structure of their respective jurisdictions. Issues discussed ranged from downstream gas market design and development, and consumer engagement, to competition reform, benchmarking competition and efficiency, and transitioning to a low-carbon economy.
 
 ### **Overview of Energy and Regulatory Structure**
