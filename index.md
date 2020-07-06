@@ -15,7 +15,7 @@ sections:
               url: /about/about-aper-forum/
             - title: AGENDA
               description: View the latest programme
-              url: /aper-eom/agenda/
+              url: /aper-extraordinary-meeting/agenda/
             - title: ARCHIVES
               description: Access materials from past forums
               url: /archives/aper-forum-2018/
