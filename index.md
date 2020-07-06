@@ -12,7 +12,7 @@ sections:
         key_highlights:
             - title: ABOUT APER FORUM
               description: Find out more about this biennial forum
-              url: /about/about-aper/
+              url: /about/about-aper-forum/
             - title: AGENDA
               description: View the latest programme
               url: /aper-2021/agenda-day1/
