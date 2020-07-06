@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Asia Pacific Energy Regulatory Forum 2021
-description: Asia Pacific Energy Regulatory Forum 2021
+title: Asia Pacific Energy Regulatory Forum
+description: Asia Pacific Energy Regulatory Forum
 image: /images/final-aper-logo.png
 permalink: /
 sections:
