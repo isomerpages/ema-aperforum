@@ -3,5 +3,5 @@ title: Administrative Circular
 permalink: /APER-2021/administrative-circular
 ---
 
-Page under construction
+Information to be provided at a later stage. 
 
