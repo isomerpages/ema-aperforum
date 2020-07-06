@@ -5,7 +5,7 @@ favicon: /images/favicon-isomer.ico
 collections:
   about:
     output: true
-  APER-eom:
+  APER-extraordinary-meeting:
     output: true
   archives:
     output: true
