@@ -6,14 +6,14 @@ image: /images/final-aper-logo.png
 permalink: /
 sections:
     - hero:
-        title: Asia Pacific Energy Regulatory Forum 2021
-        subtitle: Singapore, 26 - 29 January 2021
+        title: Asia Pacific Energy Regulatory Forum
+        subtitle: Singapore
         background: /images/in_skyline.jpg
         key_highlights:
             - title: ABOUT APER FORUM
               description: Find out more about this biennial forum
               url: /about/about-aper-forum/
-            - title: AGENDA
+            - title: APER EXTRAORDINARY MEETING 2020
               description: View the latest programme
               url: /aper-extraordinary-meeting/agenda/
             - title: ARCHIVES
@@ -22,7 +22,7 @@ sections:
     - infopic:
         title: Chairperson's Message
         subtitle: Welcome
-        description: Singapore extends a warm welcome to APER members to APER Forum 2021, to be held from 26 to 29 January 2021.
+        description: Singapore invites APER members to an extraordinary meeting to share their experiences dealing with the COVID-19 pandemic and views on the future of the energy sector.
         button: View Message
         url: /about/chairpersons-message/
         image: /images/sg-ngiamshihchun.jpg
