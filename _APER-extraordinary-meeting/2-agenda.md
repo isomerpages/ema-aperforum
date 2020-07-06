@@ -1,6 +1,6 @@
 ---
 title: Administrative Circular
-permalink: /APER-extraordinary-meeting/admin-circular/
+permalink: /APER-extraordinary-meeting/agenda/
 ---
 
 **a) Regulatory Challenges and Economic Impacts of COVID-19**
