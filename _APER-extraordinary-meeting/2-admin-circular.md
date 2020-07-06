@@ -1,6 +1,6 @@
 ---
 title: Administrative Circular
-permalink: /APER-eom/admin-circular/
+permalink: /APER-extraordinary-meeting/admin-circular/
 ---
 
 To be confirmed.
