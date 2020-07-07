@@ -3,8 +3,8 @@ title: Agenda
 permalink: /APER-extraordinary-meeting/agenda/
 ---
 <style>
-  table th:first-of-type {width: 25%}
-  table th:nth-of-type(2) {width: 75%}
+  table th:first-of-type {width: 20%}
+  table th:nth-of-type(2) {width: 80%}
 </style>
 
 | **Time (UTC +8 hours)** | **Agenda** |
