@@ -2,10 +2,12 @@
 title: Agenda
 permalink: /APER-extraordinary-meeting/agenda/
 ---
+<style>
+  table th:first-of-type {width: 15%}
+  table th:nth-of-type(2) {width: 85%}
+</style>
 
-#### a) Regulatory Challenges and Economic Impacts of COVID-19
-This plenary discussion session presents a platform for members to exchange their organization’s best measures and practices in response to regulatory challenges and wider economic implications of the COVID-19 pandemic.
- 
-#### b) The Post Covid-19 Future of Energy
-This plenary discussion session allows members to share their outlook of new regulatory opportunities after COVID-19, such as the transition of energy systems
-towards greater sustainability, supply chain resilience and increased international cooperation for a clean energy future.
+| **Time (UTC +8 hours)** | **Agenda** |
+|---|:----|
+| **0830 - 0840** * | Opening remarks by EMA Chief Executive |
+
