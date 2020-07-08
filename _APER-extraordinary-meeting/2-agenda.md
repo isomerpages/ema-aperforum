@@ -7,7 +7,7 @@ permalink: /APER-extraordinary-meeting/agenda/
   table th:nth-of-type(2) {width: 80%}
 </style>
 
-| **Time (UTC +8 hours)** | **Agenda** |
+| **Time<br>(UTC +8 hours)** | **Agenda** |
 |---|:----|
 | **0830 - 0840** | Opening remarks by EMA Chief Executive |
 | **0840 - 0850** | Presentation by the IEA Director of Energy Markets and Security Keisuke Sadamori on Impact of COVID-19 ON Energy Systems |
