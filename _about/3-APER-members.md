@@ -17,7 +17,7 @@ permalink: /about/APER-members/
 |Papua New Guinea|[Independent Consumer and Competition Commission (ICCC)](https://iccc.gov.pg)
 |Philippines|[Energy Regulatory Commission](http://erc.gov.ph)
 |Republic of Korea|[Electricity Regulatory Commission, Ministry of Trade, Industry & Energy (MOTIE)](http://english.motie.go.kr)
-|Samoa|[Office of The Regulator](http://regulator.gov.ws)
+|Samoa|[Office of the Regulator](http://regulator.gov.ws)
 |Singapore|[Energy Market Authority](http://ema.gov.sg)
 |Thailand|[Energy Regulatory Commission of Thailand](http://erc.or.th)
 |Tonga|[Tonga Electricity Commission](http://electricitycommission.to)
