@@ -10,7 +10,7 @@ permalink: /about/APER-members/
 |Member Country|Organisation|
 |-|-|
 |Australia|[Australian Energy Regulator](https://www.aer.gov.au/)
-|China|[National Energy Administration](http://nea.gov.cn)
+|China|[National Energy Administration](http://www.nea.gov.cn)
 |India|[Central Electricity Regulatory Commission](http://www.cercind.gov.in/)
 |Japan|[Electricity and Gas Market Surveillance Commision (EGC), Ministry of Economy, Trade, and Industry, (METI)](http://www.emsc.meti.go.jp/english/)
 |New Zealand|[Electricity Authority](http://ea.govt.nz/)
