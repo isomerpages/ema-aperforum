@@ -13,7 +13,7 @@ sections:
             - title: ABOUT APER FORUM
               description: Find out more about this biennial forum
               url: /about/about-aper-forum/
-            - title: APER EXTRAORDINARY MEETING 2020
+            - title: APER FORUM EXTRAORDINARY MEETING 2020
               description: View the latest programme
               url: /aper-extraordinary-meeting/agenda/
             - title: ARCHIVES
