@@ -6,7 +6,6 @@ permalink: /APER-extraordinary-meeting/agenda/
   table th:first-of-type {width: 20%}
   table th:nth-of-type(2) {width: 80%}
 </style>
-
 | **Time<br>(UTC +8 hours)** | **Agenda** |
 |---|:----|
 | **0745 - 0830** | *System Testing* |
