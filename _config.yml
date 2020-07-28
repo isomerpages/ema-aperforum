@@ -10,6 +10,7 @@ collections:
   archives:
     output: true
 
+google_analytics: UA-173919789-1
 resources_name: newsroom
 
 ##################################################################################################################
