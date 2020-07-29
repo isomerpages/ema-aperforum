@@ -7,7 +7,7 @@ permalink: /
 sections:
     - hero:
         title: Asia Pacific Energy Regulatory Forum
-        subtitle: Singapore
+        subtitle: Hoted by Energy Market Authority, Singapore
         background: /images/in_skyline.jpg
         key_highlights:
             - title: ABOUT APER FORUM
