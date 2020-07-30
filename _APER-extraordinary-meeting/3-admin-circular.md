@@ -4,8 +4,8 @@ permalink: /APER-extraordinary-meeting/admin-circular/
 ---
 
 <style>
-  table th:first-of-type {width: 50%}
-  table th:nth-of-type(2) {width: 50%}
+  table th:first-of-type {width: 85%}
+  table th:nth-of-type(2) {width: 15%}
 </style>
 
 ### **APER Forum Extraordinary Meeting**
