@@ -13,6 +13,7 @@ locations:
 #        time: 8.00am - 5.30pm
 #        description: Closed on Saturdays, Sundays and Public Holidays
 #    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+---
 
     contacts:
   - title: General Enquiries & Feedback
