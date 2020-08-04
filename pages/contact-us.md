@@ -13,13 +13,8 @@ locations:
 #        time: 8.00am - 5.30pm
 #        description: Closed on Saturdays, Sundays and Public Holidays
 #    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-# - title: Event Venue
-#    address:
- #       - Mandarin Orchard, 333 Orchard Road
-  #      - Singapore 238867
-   # maps_link: https://goo.gl/maps/4YaNjFg99y8WgtqcA
-    
-contacts:
+
+    contacts:
   - title: General Enquiries & Feedback
     content:
     - phone: (+65) 6996 6711
