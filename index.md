@@ -22,7 +22,7 @@ sections:
     - infopic:
         title: Chairperson's Message
         subtitle: Welcome
-        description: Singapore invites APER members to an extraordinary meeting to share their experiences dealing with the COVID-19 pandemic and views on the future of the energy sector.
+        description: Singapore invites APER members to Extraordinary Meeting on 14 August 2020 to share their views on the regulatory challenges and economic impact of COVID-19 and how they are preparing for future disruptions.
         button: View Message
         url: /about/chairpersons-message/
         image: /images/sg-ngiamshihchun.jpg
