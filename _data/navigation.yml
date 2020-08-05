@@ -1,19 +1,13 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
+logo: /images/final-aper-logo.png
 
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: About
     collection: about
-  - title: APER 2020
-    collection: APER-2020
+  - title: APER Forum Extraordinary Meeting 2020
+    collection: APER-extraordinary-meeting
   - title: Archives
     collection: archives
-  - title: Newsroom
-    resource_room: true
+  - title: Contact Us
+    url: /contact-us/
+
+

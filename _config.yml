@@ -1,14 +1,16 @@
-title: Title
+title: APER Forum
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/Webp.net-resizeimage.png
 
 collections:
   about:
     output: true
-  APER-2020:
+  APER-extraordinary-meeting:
     output: true
   archives:
     output: true
+
+google_analytics: UA-173919789-1
 resources_name: newsroom
 
 ##################################################################################################################
@@ -34,5 +36,5 @@ plugins:
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
+description: Singapore will be hosting the Asia Pacific Energy Regulatory Forum in 2020/2021.
 
