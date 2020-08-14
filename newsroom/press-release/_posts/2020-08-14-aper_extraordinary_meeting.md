@@ -19,6 +19,6 @@ permalink: /newsroom/press-release/20200814-aper-eom
 
 8\. &nbsp; &nbsp; Singapore will host the 5th APER Forum in 2021. The last APER Forum was hosted by Japan in November 2018. Singapore decided to host a virtual Extraordinary Meeting this year to provide Members with a timely platform for exchanging views.
 
-<centre>-- End --<\centre>
+<center>-- End --</center>
 
 [Download the Press Release](/files/20200814-APER-EOM-Regulatory-Challenges-and-Best-Practices-amidst-Covid19-Outbreak.pdf) (123kb)
