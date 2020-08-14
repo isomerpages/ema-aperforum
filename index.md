@@ -4,7 +4,7 @@ title: Asia Pacific Energy Regulatory Forum
 description: Asia Pacific Energy Regulatory Forum
 image: /images/final-aper-logo.png
 permalink: /
-notification: APER Members held the Extraordinary Meeting on 14 August 2020. [Find out more](/newsroom/press-release/20200814-aper-eom/)
+notification: APER Members held the Extraordinary Meeting on 14 August 2020. <a href="https://www.aperforum.org/newsroom/press-release/20200814-aper-eom/>Find out more<\a>
 sections:
     - hero:
         title: Asia Pacific Energy Regulatory Forum
