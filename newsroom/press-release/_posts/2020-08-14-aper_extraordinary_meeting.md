@@ -20,3 +20,5 @@ The Energy Market Authority (EMA) of Singapore convened the Extraordinary Meetin
 8. Singapore will host the 5th APER Forum in 2021. The last APER Forum was hosted by Japan in November 2018. Singapore decided to host a virtual Extraordinary Meeting this year to provide Members with a timely platform for exchanging views.
 
 -- End --
+
+Download the Press Release [123kb](/files/20200814-APER-EOM-Regulatory-Challenges-and-Best-Practices-amidst-Covid19-Outbreak.pdf)
