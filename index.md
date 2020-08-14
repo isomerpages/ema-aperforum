@@ -4,7 +4,7 @@ title: Asia Pacific Energy Regulatory Forum
 description: Asia Pacific Energy Regulatory Forum
 image: /images/final-aper-logo.png
 permalink: /
-notification: Singapore convened the APER Forum Extraordinary Meeting on 14 August 2020. ![Find out more](/newsroom/press-release/20200814-aper-eom/)
+notification: Singapore convened the APER Forum Extraordinary Meeting on 14 August 2020. [Find out more](/newsroom/press-release/20200814-aper-eom/)
 sections:
     - hero:
         title: Asia Pacific Energy Regulatory Forum
