@@ -33,7 +33,7 @@ sections:
         alt: Chairperson Ngiam Shih Chun
     - resources:
         title: Newsroom
-        subtitle: Learn more
+        subtitle: The latest
         button: View more
     - infopic:
         title: APER 2018
