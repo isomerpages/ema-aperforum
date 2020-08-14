@@ -27,6 +27,9 @@ sections:
         url: /about/chairpersons-message/
         image: /images/sg-ngiamshihchun.jpg
         alt: Chairperson Ngiam Shih Chun
+    - resources:
+        title: Newsroom
+        subtitle: Learn more
     - infopic:
         title: APER 2018
         subtitle: Past Forums
