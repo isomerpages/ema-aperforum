@@ -30,6 +30,7 @@ sections:
     - resources:
         title: Newsroom
         subtitle: Learn more
+        button: View more
     - infopic:
         title: APER 2018
         subtitle: Past Forums
