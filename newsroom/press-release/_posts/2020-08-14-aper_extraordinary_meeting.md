@@ -5,9 +5,9 @@ permalink: /newsroom/press-release/20200814-aper-eom
 ---
 The Energy Market Authority (EMA) of Singapore convened the Extraordinary Meeting of the Asia Pacific Energy Regulatory (APER) Forum virtually today to discuss the challenges and impact of COVID-19 to the energy sector and ways of enhancing the energy sector’s resilience to future disruptions.
 
- 2. The Extraordinary Meeting was chaired by Singapore and attended by members from Australia, the People’s Republic of China, India, Japan, the Republic of Korea, New Zealand, Samoa, Thailand, Tonga and the United States.
+2\. The Extraordinary Meeting was chaired by Singapore and attended by members from Australia, the People’s Republic of China, India, Japan, the Republic of Korea, New Zealand, Samoa, Thailand, Tonga and the United States.
 
- 3. Mr Keisuke Sadamori, International Energy Agency (IEA) Director of Energy Markets and Security, provided an overview of the impact of COVID-19 on the global energy sector. The IEA estimates that global energy demand could fall by 6% this year. The decline would be seven times greater than during the 2008 financial crisis. Energy investments are also expected to decrease by almost US$400 billion in 2020 due to the pandemic.
+3\. Mr Keisuke Sadamori, International Energy Agency (IEA) Director of Energy Markets and Security, provided an overview of the impact of COVID-19 on the global energy sector. The IEA estimates that global energy demand could fall by 6% this year. The decline would be seven times greater than during the 2008 financial crisis. Energy investments are also expected to decrease by almost US$400 billion in 2020 due to the pandemic.
 
  4. In Session 1, APER Forum Members discussed key challenges facing energy systems, including ensuring grid resilience during periods of partial or full lockdowns. Overall, Members noted the importance of securing energy supply chains and ensuring manpower availability for critical operations. They also shared a wide range of governmental and regulatory responses put in place to support economies, energy markets, and the wellbeing of consumers.
 
