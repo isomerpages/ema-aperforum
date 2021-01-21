@@ -7,7 +7,7 @@ permalink: /
 notification: APER Members held the Extraordinary Meeting virtually on 14 August 2020. <a href="/newsroom/press-release/20200814-aper-eom/">Find out more here</a>
 sections:
     - hero:
-        title:
+        title: Asia Pacific Energy Regulatory Forum
         subtitle: The APER Forum will be held during the Singapore International Energy Week, from 25 - 29 October 2021. Stay tuned for more details.
         background: /images/APER_and_SIEW.png
         key_highlights:
