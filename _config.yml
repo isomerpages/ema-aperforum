@@ -1,5 +1,5 @@
 title: APER Forum
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://aperforum.org" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/Webp.net-resizeimage.png
 
 collections:
