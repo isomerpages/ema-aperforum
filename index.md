@@ -8,7 +8,7 @@ notification: APER Members held the Extraordinary Meeting virtually on 14 August
 sections:
     - hero:
         title:
-        subtitle:
+        subtitle:The APER Forum will be held during the Singapore International Energy Week, from 25 - 29 October 2021. Stay tuned for more details.
         background: /images/APER_and_SIEW.png
         key_highlights:
             - title: ABOUT APER FORUM
