@@ -9,7 +9,7 @@ sections:
     - hero:
         title:                                              
         subtitle: 
-        background: /images/APER_and_SIEW.png
+        background: /images/APER_and_SIEW_1.png
         key_highlights:
             - title: ABOUT APER FORUM
               description: Find out more about this biennial forum
