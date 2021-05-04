@@ -2,6 +2,22 @@ title: APER Forum
 url: "https://aperforum.org" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/Webp.net-resizeimage.png
 
+// HLB brand colors
+colors:
+  primary-color: '#2A4F8F'
+  secondary-color: '#396AD4'
+  media-colors:
+    - title: media-color-one
+      color: '#2A4F8F'
+    - title: media-color-two
+      color: '#2A4F8F'
+    - title: media-color-three
+      color: '#2A4F8F'
+    - title: media-color-four
+      color: '#2A4F8F'
+    - title: media-color-five
+      color: '#2A4F8F'
+
 collections:
   about:
     output: true
