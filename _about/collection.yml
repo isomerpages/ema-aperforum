@@ -1,0 +1,8 @@
+collections:
+  about:
+    output: true
+    order:
+      - about-aper-forum.md
+      - about-the-organiser.md
+      - chairperson-s-message.md
+      - aper-members.md
