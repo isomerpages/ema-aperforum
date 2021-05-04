@@ -1,0 +1,7 @@
+collections:
+  archives:
+    output: true
+    order:
+      - aper-forum-2018.md
+      - aper-forum-2016.md
+      - aper-forum-2014.md
