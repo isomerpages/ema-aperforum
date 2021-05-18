@@ -1,0 +1,11 @@
+collections:
+  APER-2021:
+    output: false
+    order:
+      - agenda/.keep
+      - agenda/day-1-26-january.md
+      - agenda/day-2-27-january.md
+      - agenda/day-3-28-january.md
+      - agenda/day-4-29-january.md
+      - administrative-circular.md
+      - venue.md

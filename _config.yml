@@ -2,13 +2,20 @@ title: APER Forum
 url: "https://aperforum.org" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/Webp.net-resizeimage.png
 
-collections:
-  about:
-    output: true
-  APER-extraordinary-meeting:
-    output: true
-  archives:
-    output: true
+colors:
+  primary-color: '#2A4F8F'
+  secondary-color: '#396AD4'
+  media-colors:
+    - title: media-color-one
+      color: '#2A4F8F'
+    - title: media-color-two
+      color: '#2A4F8F'
+    - title: media-color-three
+      color: '#2A4F8F'
+    - title: media-color-four
+      color: '#2A4F8F'
+    - title: media-color-five
+      color: '#2A4F8F'
 
 google_analytics: UA-173919789-1
 resources_name: newsroom
@@ -31,10 +38,13 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: Singapore will be hosting the Asia Pacific Energy Regulatory Forum in 2020/2021.
+
+staging: https://ema-aperforum-staging.netlify.app
+prod: https://ema-aperforum-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: Singapore will be hosting the Asia Pacific Energy Regulatory Forum in 2020/2021.
-
+  - jekyll-remote-theme

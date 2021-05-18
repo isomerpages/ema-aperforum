@@ -1,0 +1,8 @@
+collections:
+  APER-extraordinary-meeting:
+    output: true
+    order:
+      - about.md
+      - agenda.md
+      - administrative-circular.md
+      - presentation-materials.md
